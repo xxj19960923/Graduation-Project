@@ -1,0 +1,56 @@
+{
+    "taskList": [
+        {
+            "id": 1001,
+            "taskType": 0,
+            "name": "新手试炼",
+            "icon": "任务1",
+            "des": "寻找新手导师完成你的第一个新手任务",
+            "coinReward": 500,
+            "expReward": 100,
+            "talkDes": "你好，欢迎你的到来，准备好了吗？要是准备好了就开始接收任务吧。",
+            "idNpc": 1001,
+            "idTranscript": 1002,
+            "taskState": 0
+        },
+        {
+            "id": 1002,
+            "taskType": 0,
+            "name": "初出茅庐",
+            "icon": "任务1",
+            "des": "通过新手副本完成你的第一个冒险任务",
+            "coinReward": 1000,
+            "expReward": 200,
+            "talkDes": "既然你已经找到了我，说明你已经准备好冒险了是吗？",
+            "idNpc": 1002,
+            "idTranscript": 1,
+            "taskState": 0
+        },
+        {
+            "id": 1003,
+            "taskType": 1,
+            "name": "赏金任务",
+            "icon": "任务2",
+            "des": "通过赏金之地完成赏金任务",
+            "coinReward": 300,
+            "expReward": 0,
+            "talkDes": "通过这个任务可以获得很多钱哦，准备好了吗？",
+            "idNpc": 1002,
+            "idTranscript": 2,
+            "taskState": 0
+        },
+        {
+            "id": 1004,
+            "taskType": 2,
+            "name": "日常任务",
+            "icon": "任务3",
+            "des": "通关日常之地完成日常任务",
+            "coinReward": 50,
+            "expReward": 20,
+            "talkDes": "这个任务是可以重复领取的，准备好了吗？",
+            "idNpc": 1003,
+            "idTranscript": 3,
+            "taskState": 0
+        }
+    ]
+}
